@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anujkshatriya82@gmail.com">📧 anujkshatriya82@gmail.com</a> |
-  📱 +1234567890
+  <a href="mailto:anujkshatriya82@gmail.com">📧 aknegi97@gmail.com</a> |
+  📱 +9627278767
 </p>
 
 ---
