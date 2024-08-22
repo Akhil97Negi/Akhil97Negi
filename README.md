@@ -27,8 +27,8 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 - 💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/in/akhilesh-negi/) & [GitHub](https://github.com/Akhil97Negi).
 - 🎨 Open to new ideas and suggestions - share yours!
 - ✉️ Reach me at [aknegi97@gmail.com](mailto:aknegi97@gmail.com) - let's chat!
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1wTLKhv0hCGGGZo2h8c4cO5fDXQCDerak/view?usp=sharing) for the full scoop.
-- 💼 Dive into my [Portfolio](https://portfolio-71nn3d502-akhilesh-negis-projects-39e7c552.vercel.app/) - where every project tells a story!
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1wTLKhv0hCGGGZo2h8c4cO5fDXQCDerak/view?usp=sharing) (opens in a new tab) for the full scoop.
+- 💼 Dive into my [Portfolio](https://portfolio-71nn3d502-akhilesh-negis-projects-39e7c552.vercel.app/) (opens in a new tab) - where every project tells a story!
 
 ---
 
