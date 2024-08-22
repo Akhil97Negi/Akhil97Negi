@@ -78,8 +78,8 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 </p>
 
 <p align="center">
-  <!-- Fallback option if activity-graph is not working -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akhil97Negi&bg_color=1a1b27&color=ffffff&line=61dafb&point=fefefe&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <!-- Static alternative for activity graph -->
+  <img src="https://github.com/Akhil97Negi/github-activity-graph/blob/master/docs/activity-graph.png" alt="GitHub Activity Graph" width="800"/>
 </p>
 
 ---
