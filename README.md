@@ -69,8 +69,6 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil97Negi&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
@@ -80,9 +78,9 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Akhil97Negi&bg_color=1a1b27&color=ffffff&line=61dafb&point=fefefe&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <!-- Fallback option if activity-graph is not working -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akhil97Negi&bg_color=1a1b27&color=ffffff&line=61dafb&point=fefefe&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-
 
 ---
 
