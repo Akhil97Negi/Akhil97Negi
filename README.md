@@ -26,7 +26,7 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 - 🌟 Currently mastering the MERN stack - it's a journey!
 - 💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/in/akhilesh-negi/) & [GitHub](https://github.com/Akhil97Negi).
 - 🎨 Open to new ideas and suggestions - share yours!
-- ✉️ Reach me at [anujkshatriya82@gmail.com](mailto:aknegi97@gmail.com) - let's chat!
+- ✉️ Reach me at [aknegi97@gmail.com](mailto:aknegi97@gmail.com) - let's chat!
 - 📄 Check out my [Resume](#) for the full scoop.
 - 💼 Dive into my [Portfolio](#) - where every project tells a story!
 
