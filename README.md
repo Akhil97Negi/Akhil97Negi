@@ -77,10 +77,7 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil97Negi&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <!-- Static alternative for activity graph -->
-  <img src="https://github.com/Akhil97Negi/github-activity-graph/blob/master/docs/activity-graph.png" alt="GitHub Activity Graph" width="800"/>
-</p>
+
 
 ---
 
