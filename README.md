@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anujkshatriya82@gmail.com">📧 aknegi97@gmail.com</a> |
+  <a href="mailto:aknegi97@gmail.com">📧 aknegi97@gmail.com</a> |
   📱 +9627278767
 </p>
 
@@ -13,7 +13,7 @@
 
 ### Full Stack Web Developer | MERN Stack
 
-With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on [LinkedIn](https://www.linkedin.com/) to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
+With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on [LinkedIn](https://www.linkedin.com/in/akhilesh-negi/) to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
 
 ---
 
@@ -24,9 +24,9 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 ### 🚀 Crafting both Frontend & Backend magic!
 
 - 🌟 Currently mastering the MERN stack - it's a journey!
-- 💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/) & [GitHub](https://github.com/).
+- 💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/in/akhilesh-negi/) & [GitHub](https://github.com/Akhil97Negi).
 - 🎨 Open to new ideas and suggestions - share yours!
-- ✉️ Reach me at [anujkshatriya82@gmail.com](mailto:anujkshatriya82@gmail.com) - let's chat!
+- ✉️ Reach me at [anujkshatriya82@gmail.com](mailto:aknegi97@gmail.com) - let's chat!
 - 📄 Check out my [Resume](#) for the full scoop.
 - 💼 Dive into my [Portfolio](#) - where every project tells a story!
 
